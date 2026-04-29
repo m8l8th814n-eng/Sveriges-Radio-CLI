@@ -1,6 +1,15 @@
 # Sveriges Radio CLI
+
 console program för sveriges radio skrivet i rust. 
-![](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/2915.png)
+
+v2.
+
+![V2](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/srtuiv2_3.png)
+![V22](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/srtuiv2_4.png)
+![V23](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/srtuiv2_5.png)
+v1.
+
+![OLD](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/2915.png)
 
   Så bygger du paketet:
 
