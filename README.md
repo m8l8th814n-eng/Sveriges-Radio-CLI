@@ -1,7 +1,7 @@
 # Sveriges Radio CLI
 
 console program för sveriges radio skrivet i rust. 
-
+använder alacrittys teman från ~/.config/alacritty
 v2.
 ![Sveriges Radio tarball](https://github.com/m8l8th814n-eng/Sveriges-Radio-CLI/blob/main/sverigesradio_v2.tar.xz)
 
